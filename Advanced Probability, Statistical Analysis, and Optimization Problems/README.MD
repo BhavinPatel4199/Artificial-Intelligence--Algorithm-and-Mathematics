@@ -1,29 +1,58 @@
----
+# Statistical Analysis and Optimization Techniques using Python
 
-## Statistical Analysis and Optimization Problems
+This repository contains solutions to a series of statistical and mathematical problems, designed to deepen understanding of key concepts in statistics, optimization, and linear algebra.
 
-This repository contains solutions to various statistical and mathematical problems, including:
+## 1. Hypothesis Testing and Confidence Intervals
 
-### 1. Hypothesis Testing and Confidence Intervals
-Analyzes mercury levels in walleye fish to determine if they exceed Health Canada’s action level of 1 ppm. Includes:
-- Establishing statistical hypotheses
-- Performing hypothesis tests (e.g., one-sample t-test)
-- Explaining Type I and Type II errors
-- Making recommendations based on data
-- Calculating and interpreting confidence intervals
+### Description:
+- **Objective:** Analyze mercury levels in walleye fish to determine if they exceed Health Canada’s action level of 1 ppm.
+- **Tasks:**
+  - Formulate and establish statistical hypotheses.
+  - Perform hypothesis tests, such as the one-sample t-test.
+  - Explain Type I and Type II errors.
+  - Make recommendations based on the analysis.
+  - Calculate and interpret confidence intervals for mercury levels.
 
-### 2. Gradient Descent Optimization
-Uses the Gradient Descent algorithm to minimize a quadratic function. Involves:
-- Applying Gradient Descent to find optimal values
-- Reporting values after each iteration until convergence (or up to 5 iterations if solving manually)
+### Tools Used:
+- Python
+- Statistical libraries such as `scipy` and `numpy`
 
-### 3. Matrix Properties
-Verifies matrix properties for a given matrix \(A\) to show that \(AI = IA = A\), where \(I\) is the identity matrix.
+## 2. Gradient Descent Optimization
 
-### 4. Eigenvalues and Eigenvectors
-Finds eigenvalues and eigenvectors for a given 2x2 matrix, essential for understanding matrix transformations and linear systems.
+### Description:
+- **Objective:** Minimize a quadratic function using the Gradient Descent algorithm.
+- **Tasks:**
+  - Apply the Gradient Descent algorithm to find the optimal values.
+  - Report values after each iteration until convergence (or up to 5 iterations if solving manually).
 
-This repository provides practical examples and solutions for understanding key concepts in statistics and linear algebra.
+### Tools Used:
+- Python
+- Mathematical libraries such as `numpy`
 
----
+## 3. Matrix Properties
 
+### Description:
+- **Objective:** Verify matrix properties for a given matrix \(A\) to confirm that \(AI = IA = A\), where \(I\) is the identity matrix.
+- **Tasks:**
+  - Demonstrate and verify fundamental matrix properties.
+
+### Tools Used:
+- Python
+- `numpy` for matrix operations
+
+## 4. Eigenvalues and Eigenvectors
+
+### Description:
+- **Objective:** Calculate eigenvalues and eigenvectors for a given 2x2 matrix, essential for understanding matrix transformations and linear systems.
+- **Tasks:**
+  - Determine eigenvalues and corresponding eigenvectors for a specified matrix.
+
+### Tools Used:
+- Python
+- `numpy` for linear algebra operations
+
+## Installation and Usage
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/repository-name.git
