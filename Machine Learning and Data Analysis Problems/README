@@ -1,0 +1,32 @@
+
+This repository contains solutions to various machine learning and data analysis problems, including:
+
+### 1. KNN and Decision Trees
+Analyzes customer default status using:
+- **K-Nearest Neighbors (KNN)**: Implements the KNN algorithm with K=3 using Manhattan distance to predict the class of a new sample.
+- **Decision Tree**: Constructs a decision tree using entropy as a purity measure and predicts the class of a sample based on the created tree.
+- **Comparison**: Discusses the resilience of KNN vs. Decision Trees to irrelevant features in datasets.
+
+### 2. Support Vector Machines (SVM)
+Works with a 2D plane to:
+- **Create a Linear Decision Boundary**: Uses SVM logic to separate two classes.
+- **Identify Slope and Intercept**: Calculates and identifies the slope and intercept of the decision boundary.
+- **Declare Support Vectors**: Identifies support vectors used to determine the decision boundary.
+
+### 3. Hierarchical Clustering
+Uses complete linkage hierarchical clustering on 2D data points:
+- **Clustering Implementation**: Performs hierarchical clustering using Manhattan distance.
+- **Dendrogram Construction**: Draws a dendrogram to visualize the clustering process.
+- **Outlier Detection**: Discusses the ability of hierarchical clustering to detect outliers.
+- **Dendrogram Pruning**: Explains methods to prune the dendrogram.
+
+### Bonus Questions
+Explains key concepts in machine learning:
+- **Bias-Variance Trade-Off**: Discusses the trade-off between bias and variance, and its relation to overfitting and underfitting.
+- **Confusion Matrix**: Defines the confusion matrix, its components, and what information can be derived from it.
+- **ROC Curve**: Explains the ROC curve, its use in evaluating model performance, and what can be inferred from it.
+- **Regularization**: Describes regularization techniques and provides examples of how they help prevent overfitting.
+
+This repository provides practical examples and detailed solutions to fundamental machine learning techniques and concepts.
+
+---
