@@ -1,0 +1,16 @@
+Q1: Probability and Venn Diagrams
+
+This problem involves using probability concepts and Venn diagrams to analyze crime statistics. The key components include:
+
+Completing a Probability Table: Using given probabilities to fill in missing values in a table involving male (M) and under 18 (U18) categories.
+Calculating Combined Probabilities: Determining the probability of being male or under 18, neither male nor under 18, and being male and at least 18 years of age.
+Determining Mutual Exclusivity: Evaluating whether the events of being male and under 18 are mutually exclusive.
+Summary: This question assesses understanding of basic probability, the use of Venn diagrams, and the concept of mutually exclusive events.
+
+Q2: Binomial Probability
+
+This problem involves binomial probability, where a fixed number of trials (voters) are evaluated for success (favoring the smoking ban):
+
+Calculating Exact Probabilities: Finding the probability of exactly 2 out of 5 voters favoring the ban.
+Calculating Cumulative Probabilities: Finding the probability of fewer than 4 out of 5 voters favoring the ban.
+Calculating Complementary Probabilities: Finding the probability of at least 1 out of 5 voters favoring the ban.
