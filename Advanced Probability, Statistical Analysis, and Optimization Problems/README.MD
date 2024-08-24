@@ -51,8 +51,4 @@ This repository contains solutions to a series of statistical and mathematical p
 - Python
 - `numpy` for linear algebra operations
 
-## Installation and Usage
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
