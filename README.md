@@ -44,4 +44,4 @@ The "Artificial Intelligence: Algorithms and Mathematics" repository consolidate
 
 1. **Clone the Repository:**
    ```bash
-  
+   git clone  https://github.com/krishnapatel1722/Artificial-Intelligence--Algorithm-and-Mathematics.git
