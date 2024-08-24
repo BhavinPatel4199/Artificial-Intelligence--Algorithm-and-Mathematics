@@ -60,8 +60,4 @@ This repository contains solutions to various machine learning and data analysis
 - **train.csv:** Includes various attributes relevant to the problem, used for training machine learning models.
 - **test.csv:** Contains features only, used for predicting outcomes and evaluating model performance.
 
-## Installation and Usage
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
