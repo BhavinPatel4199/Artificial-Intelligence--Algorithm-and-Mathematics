@@ -27,6 +27,17 @@ Explains key concepts in machine learning:
 - **ROC Curve**: Explains the ROC curve, its use in evaluating model performance, and what can be inferred from it.
 - **Regularization**: Describes regularization techniques and provides examples of how they help prevent overfitting.
 
+###Dataset
+
+The dataset used for the problems is in CSV format and includes two files:
+
+train.csv: Contains the training data with features and labels.
+test.csv: Contains the test data for model evaluation.
+Dataset Description
+train.csv: Features and labels used for training models. Columns include various attributes relevant to the problem.
+test.csv: Features only, used for predicting outcomes and evaluating model performance.
+
+
 This repository provides practical examples and detailed solutions to fundamental machine learning techniques and concepts.
 
 ---
