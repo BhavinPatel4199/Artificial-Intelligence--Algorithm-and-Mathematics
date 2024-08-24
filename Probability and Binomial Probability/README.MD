@@ -40,8 +40,4 @@ This repository contains solutions to problems involving probability concepts, V
 - Python
 - `scipy.stats` for binomial probability calculations
 
-## Installation and Usage
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
